@@ -1,0 +1,2 @@
+All transactions.
+Data is exported using https://github.com/farque65/harmony-one-bigquery
